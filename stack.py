@@ -1,5 +1,5 @@
 from deque import Deque
-import collections
+
 
 
 class Stack():
